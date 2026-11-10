@@ -12,7 +12,7 @@ END_WORD = "__END_WORD__"
 
 DB_HOST = "localhost"
 DB_USER = "root"
-DB_PASS = "dharunL12" 
+DB_PASS = "123456" 
 
 global_node_counter = 0
 
